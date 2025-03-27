@@ -55,4 +55,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# carpetas o archivos que no quiero que se suban
+.vscode/
+.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/c
